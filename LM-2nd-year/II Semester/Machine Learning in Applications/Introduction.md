@@ -9,3 +9,5 @@ Building a ML system is a problem composed of different sub-tasks:
 - **Prediction**
 
 The success of each phase strongly depends on the previous ones, so we need to assure a robust backbone before moving on the next phase.
+
+In the first preprocessing phase we could have high-dimensional data, so a key process is called [[Feature Reduction]].
